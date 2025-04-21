@@ -21,7 +21,7 @@ This project digs into the global fertility crisis what’s driving it, who’s 
 
 ## 🎯 The Challenge
 
-Fertility rates are dropping everywhere—even in countries pushing aggressive pro-natalist policies. That raises some big questions:
+Fertility rates are dropping everywhere even in countries pushing aggressive pro-natalist policies. That raises some big questions:
 
 - Why aren’t financial incentives working?  
 - What types of support *actually* help people start families?  
