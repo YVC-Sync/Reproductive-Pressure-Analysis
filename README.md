@@ -1,7 +1,7 @@
 # 👩‍👧‍👦 Reproductive Pressure: A Data-Driven Analysis  
 **The Hidden Costs of Fertility Decline: What Governments Ask of Women and What They Refuse to Give**
 
-<img src="reproductive_pressure_logo.png" alt="Reproductive Pressure Logo" width="175">
+<img src="reproductive_pressure_logo.png" alt="Reproductive Pressure Logo" width="150">
 
 This project digs into the global fertility crisis—what’s driving it, who’s paying the price, and whether all the government “support” actually helps. I brought together datasets from the World Bank, OECD, and OWID to trace how financial incentives, care policies, and demographic pressure collide. Then I broke that down into a story about women, equity, and the future of population policy. Everything’s visualized in Tableau & Python, with a mix of time series, regression, and clustering to uncover the patterns most people miss.
 
