@@ -1,4 +1,4 @@
- # 👩‍👧‍👦 Reproductive Pressure: A Data-Driven Analysis  
+ # Reproductive Pressure: A Data-Driven Analysis  
 **The Hidden Costs of Fertility Decline: What Governments Ask of Women and What They Refuse to Give**
 
 <img src="reproductive_pressure_logo.png" alt="Reproductive Pressure Logo" width="150">
@@ -66,7 +66,7 @@ All cleaned and final data files are in the `data/` folder.
 - **South Korea is a cautionary tale**  
   Tons of investment, but little real infrastructure or gender equity.
 
-- **It’s not just about support—it’s about *how* it’s structured**  
+- **It’s not just about support it’s about *how* it’s structured**  
   Clusters showed that leave policies and childcare access mattered more than cash.
 
 - **The burden keeps falling on women**  
