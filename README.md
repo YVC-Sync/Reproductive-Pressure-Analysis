@@ -49,13 +49,12 @@ All cleaned and final data files are in the `data/` folder.
 
 ## 📊 Key Visuals & What They Show
 
-- 📉 **Fertility Divergence Bar Chart** Which countries are furthest from replacement  
-- 🔎 **Support vs. Fertility Scatterplots** Comparing spending to outcomes  
-- 🧩 **Cluster Profiles** — What kind of support structure each country offers  
-- ⏳ **Fertility Time Series (Japan, Korea, U.S.)** Where we’ve been, and where we’re going
+- 📉 **Fertility Divergence Bar Chart** - Which countries are furthest from replacement  
+- 🔎 **Support vs. Fertility Scatterplots** - Comparing spending to outcomes  
+- 🧩 **Cluster Profiles** - What kind of support structure each country offers  
+- ⏳ **Fertility Time Series (Japan, Korea, U.S.)** - Where we’ve been, and where we’re going
 
-👉 View the final Tableau storyboard here: 
-https://public.tableau.com/app/profile/yarisel.velacanto/viz/ReproductivePressureTheHiddenCostsofGlobalFertilityDecline/ReproductivePressureTheHiddenCostsofGlobalFertilityDecline
+👉 [View the final Tableau storyboard here](https://public.tableau.com/app/profile/yarisel.velacanto/viz/ReproductivePressureTheHiddenCostsofGlobalFertilityDecline/ReproductivePressureTheHiddenCostsofGlobalFertilityDecline)
 
 ---
 
@@ -77,7 +76,7 @@ https://public.tableau.com/app/profile/yarisel.velacanto/viz/ReproductivePressur
 
 ## 💼 From Data to Decisions
 
-Here’s what this work says to policymakers and orgs:
+Here’s what this work says to policymakers and organizations:
 
 1. **Rethink what “family-friendly” really means** more childcare, less token cash  
 2. **Focus on structure, not just spending totals**  
@@ -88,9 +87,9 @@ Here’s what this work says to policymakers and orgs:
 
 ## 🛠️ Tools Used
 
-- **Python** — for data wrangling, clustering, regression, and time series  
-- **Jupyter** — for organized, documented notebooks  
-- **Tableau** — to build a story that’s easy to follow and backed by data  
+- **Python** for data wrangling, clustering, regression, and time series  
+- **Jupyter** for organized, documented notebooks  
+- **Tableau** to build a story that’s easy to follow and backed by data  
 
 ---
 
@@ -101,24 +100,18 @@ Reproductive-Pressure-Analysis/
 │
 ├── data/
 │   ├── original/    # Raw downloads from World Bank, OECD, OWID
-│   ├── cleaned/     # Cleaned/renamed versions with aligned formatting
+│   ├── cleaned/     # Cleaned and renamed versions with aligned formatting
 │   └── prepared/    # Final datasets used in modeling or Tableau
 │
-├── notebooks/
-│   ├── 6.2_EDA_Fertility_Support.ipynb
-│   ├── 6.3_Geospatial_Analysis.ipynb
-│   ├── 6.4_Regression_Analysis.ipynb
-│   ├── 6.5_Clustering_Motherhood_Policy_Analysis.ipynb
-│   ├── 6.6_Time_Series_Motherhood_Spending.ipynb
-│   └── A6_Motherhood_Decline_Analysis.ipynb
+├── notebooks/       # All project notebooks for EDA, time series, clustering, and regression analysis
 │
 ├── tableau/
 │   ├── Tableau_Link.txt         # Link to Tableau Public Story
-│   └── Images/                  # Dashboard screenshots
+│   └── images/                  # Dashboard screenshots
 │
 ├── case-study/
-│   ├── Reproductive_Pressure_Case_Study.pdf
-│   └── Bonus_Task_UX_UI_Feedback.pdf
+│   ├── Reproductive_Pressure_Case_Study.pdf        # Final case study for CareerFoundry
+│   └── Bonus_Task_UX_UI_Feedback.pdf               # UX/UI design feedback document
 │
-├── reproductive_pressure_logo.png  # Header image for GitHub visual polish
-└── README.md
+├── reproductive_pressure_logo.png   # Header image for GitHub visual polish
+└── README.md                        # Project overview, insights, and repo guide
