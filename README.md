@@ -54,7 +54,8 @@ All cleaned and final data files are in the `data/` folder.
 - 🧩 **Cluster Profiles** — What kind of support structure each country offers  
 - ⏳ **Fertility Time Series (Japan, Korea, U.S.)** Where we’ve been, and where we’re going
 
-👉 [View the final Tableau storyboard here]([https://public.tableau.com/app/profile/your-link-here](https://public.tableau.com/app/profile/yarisel.velacanto/viz/ReproductivePressureTheHiddenCostsofGlobalFertilityDecline/ReproductivePressureTheHiddenCostsofGlobalFertilityDecline)
+👉 View the final Tableau storyboard here: 
+https://public.tableau.com/app/profile/yarisel.velacanto/viz/ReproductivePressureTheHiddenCostsofGlobalFertilityDecline/ReproductivePressureTheHiddenCostsofGlobalFertilityDecline
 
 ---
 
