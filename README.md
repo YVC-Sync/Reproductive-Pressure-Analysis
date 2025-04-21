@@ -1,4 +1,4 @@
-# 👩‍👧‍👦 Reproductive Pressure: A Data-Driven Analysis  
+ # 👩‍👧‍👦 Reproductive Pressure: A Data-Driven Analysis  
 **The Hidden Costs of Fertility Decline: What Governments Ask of Women and What They Refuse to Give**
 
 <img src="reproductive_pressure_logo.png" alt="Reproductive Pressure Logo" width="150">
