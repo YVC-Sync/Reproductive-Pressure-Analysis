@@ -93,6 +93,12 @@ Here’s what this work says to policymakers and organizations:
 
 ---
 
+## 📝 Additional Insights
+
+- [How Clustering Helped Me Spot Policy Gaps in Fertility Support](blog/clustering-policy-gap.md)
+
+---
+
 ## 📁 Repository Structure
 
 ```bash
