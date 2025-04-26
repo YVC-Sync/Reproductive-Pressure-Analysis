@@ -22,7 +22,7 @@ The .metadata.json file contains metadata about the data package. The "charts" k
 
 ## About the data
 
-Our World in Data is almost never the original producer of the data - almost all of the data we use has been compiled by others. If you want to re-use data, it is your responsibility to ensure that you adhere to the sources' license and to credit them correctly. Please note that a single time series may have more than one source - e.g. when we stich together data from different time periods by different producers or when we calculate per capita metrics using population data from a second source.
+Our World in Data is almost never the original producer of the data almost all of the data we use has been compiled by others. If you want to re-use data, it is your responsibility to ensure that you adhere to the sources' license and to credit them correctly. Please note that a single time series may have more than one source e.g. when we stich together data from different time periods by different producers or when we calculate per capita metrics using population data from a second source.
 
 ## Detailed information about the data
 
