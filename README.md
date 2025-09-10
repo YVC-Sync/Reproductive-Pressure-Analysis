@@ -49,10 +49,10 @@ All cleaned and final data files are in the `data/` folder.
 
 ## 📊 Key Visuals & What They Show
 
-- 📉 **Fertility Divergence Bar Chart** - Which countries are furthest from replacement  
-- 🔎 **Support vs. Fertility Scatterplots** - Comparing spending to outcomes  
-- 🧩 **Cluster Profiles** - What kind of support structure each country offers  
-- ⏳ **Fertility Time Series (Japan, Korea, U.S.)** - Where we’ve been, and where we’re going
+- **Fertility Divergence Bar Chart** - Which countries are furthest from replacement  
+- **Support vs. Fertility Scatterplots** - Comparing spending to outcomes  
+- **Cluster Profiles** - What kind of support structure each country offers  
+- **Fertility Time Series (Japan, Korea, U.S.)** - Where we’ve been, and where we’re going
 
 👉 [View the final Tableau storyboard here](https://public.tableau.com/app/profile/yarisel.velacanto/viz/ReproductivePressureTheHiddenCostsofGlobalFertilityDecline/ReproductivePressureTheHiddenCostsofGlobalFertilityDecline)
 
