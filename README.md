@@ -49,10 +49,10 @@ All cleaned and final data files are in the `data/` folder.
 
 ## 📊 Key Visuals & What They Show
 
-- 📉 **Fertility Divergence Bar Chart** - Which countries are furthest from replacement  
-- 🔎 **Support vs. Fertility Scatterplots** - Comparing spending to outcomes  
-- 🧩 **Cluster Profiles** - What kind of support structure each country offers  
-- ⏳ **Fertility Time Series (Japan, Korea, U.S.)** - Where we’ve been, and where we’re going
+- **Fertility Divergence Bar Chart** - Which countries are furthest from replacement  
+- **Support vs. Fertility Scatterplots** - Comparing spending to outcomes  
+- **Cluster Profiles** - What kind of support structure each country offers  
+- **Fertility Time Series (Japan, Korea, U.S.)** - Where we’ve been, and where we’re going
 
 👉 [View the final Tableau storyboard here](https://public.tableau.com/app/profile/yarisel.velacanto/viz/ReproductivePressureTheHiddenCostsofGlobalFertilityDecline/ReproductivePressureTheHiddenCostsofGlobalFertilityDecline)
 
@@ -122,3 +122,11 @@ Reproductive-Pressure-Analysis/
 ├── reproductive_pressure_logo.png   # Header image for GitHub visual polish
 └── README.md                        # Project overview, insights, and repo guide
 ```
+### 🔗 View the Full Case Study  
+[🌐 www.yariselvelacanto.com/data](http://www.yariselvelacanto.com/data)
+
+## Copyright & Use
+
+© 2026 Yarisel Velacanto. All rights reserved.
+
+This project is shared publicly for portfolio review only. Please do not copy, reuse, modify, redistribute, or commercially use any part of this work without written permission.
