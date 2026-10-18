@@ -123,7 +123,7 @@ Reproductive-Pressure-Analysis/
 └── README.md                        # Project overview, insights, and repo guide
 ```
 ### 🔗 View the Full Case Study  
-[🌐 www.yariselvelacanto.com/data](http://www.yariselvelacanto.com/data)
+[View the Reproductive Pressure Analysis Full Case Study](https://velacanto.com/reproductive-pressure-analysis)
 
 ## Copyright & Use
 
